@@ -24,11 +24,11 @@ root
 ```
 
 ## Inspiration
-* How many avg. price by room type
-* How many total reviews by room type
-* How many avg. price by neighbourhood group & room type
-* How many total reviews by neighbourhood group & room type
-* How many total reviews by last review year & room type
+* How many avg. price by room type?
+* How many total reviews by room type?
+* How many avg. price by neighbourhood group & room type?
+* How many total reviews by neighbourhood group & room type?
+* How many total reviews by last review year & room type?
 
 ## References
 * [The evolution of Airbnb research: A systematic literature review using structural topic modeling](https://www.sciencedirect.com/science/article/pii/S2405844023042986)
